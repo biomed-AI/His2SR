@@ -1,6 +1,6 @@
 # His2SR
 
-His2SR predicts spatial transcriptomics profiles from histopathology slides. The pipeline extracts multi-scale embeddings, trains a predictor, and generates dense gene-expression heatmaps together with evaluation metrics.
+His2SR predicts spatial transcriptomics profiles from histopathology slides.
 
 ## Requirements
 
