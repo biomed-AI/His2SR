@@ -1,6 +1,6 @@
-# His2SR
+# Hist2SR
 
-His2SR predicts spatial transcriptomics profiles from histopathology slides.
+Hist2SR predicts spatial transcriptomics profiles from histopathology slides.
 
 ## Requirements
 
